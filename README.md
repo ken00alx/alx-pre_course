@@ -1,5 +1,5 @@
 <head>
-<title><h2>ALX SE 2022</h2></title>
+<bgcolor ="gray"><h2>ALX SE 2022</h2>
 Be Up to date
 
 Internet keeps us all informed with the latest <p>
@@ -7,3 +7,4 @@ Internet keeps us all informed with the latest <p>
 But i keep learning and reading adding it to<p> a file directory 
 Adding directories is challenging but </p>the point here is i want to
 <i>become a better at what am learning</i>
+  </bgcolor>
