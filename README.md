@@ -1,3 +1,5 @@
+<head>
+<title><h2>ALX SE 2022</h2></title>
 Be Up to date
 
 Internet keeps us all informed with the latest <p>
