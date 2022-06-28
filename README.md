@@ -1,5 +1,5 @@
 <head>
-<bgcolor ="gray"><h2>ALX SE 2022</h2>
+<h5>ALX SE 2022</h5>
 Be Up to date
 
 Internet keeps us all informed with the latest <p>
